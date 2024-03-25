@@ -1,8 +1,4 @@
-// import {
-//   useSharedValue,
-//   withTiming,
-//   useAnimatedStyle,
-// } from 'react-native-reanimated';
+
 import React, {useEffect, useState} from 'react';
 
 import {Image, StyleSheet, Text, TouchableOpacity, View} from 'react-native';
